@@ -10,4 +10,7 @@ function route(handle, pathname, response, postData) {
 	}
 }
 
+function datacall(query)
+	
+
 exports.route = route;
